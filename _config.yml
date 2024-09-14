@@ -1,5 +1,5 @@
 title: Yudha Prawira
 logo: Picture/WhatsApp Image 2024-09-15 at 00,31,41_dda027e8-photoaidcom-cropped.jpg
-description: text below image
-show_downloads: true
+#description: text below image
+show_downloads: false
 theme: jekyll-theme-minimal
