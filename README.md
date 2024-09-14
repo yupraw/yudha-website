@@ -1,4 +1,4 @@
-# Data Scientist
+# Wireline|Data Science|Machine Learning
 
 #### Technical Skills: Python, SQL, Ms. Excel, Spreadsheet, Tableu, Power BI
 
@@ -18,7 +18,10 @@
 
 ## Projects
 ### 100% Container Availability and On Time Delivery to Paper Warehouse
-Used Ms. Excel to perform data analysis dashboard building by using Qlick for operation monitoring to solve Container Yard's problem due to the unability of Container Yard Department to support paper warehouse request in hourly basis. Most of the request were delivered unorganised and late up to 76%. This project run succesfully and impact to business up to 30%. 
+Used Ms. Excel to perform data analysis and dashboard monitoring by using Qlick for operation monitoring to solve Container Yard's problem due to the unability of Container Yard Department to support paper warehouse request in hourly basis. Most of the request were delivered unorganised and late up to 76%. This project run succesfully and impact to business up to 30%. 
+[Kaizen Project](https://drive.google.com/drive/search?q=kaizen)
+
+
 
 ## Certification
 - Machine Learning with Python
@@ -26,6 +29,6 @@ Used Ms. Excel to perform data analysis dashboard building by using Qlick for op
 - Data Analytics Professional Certificate
 - Mathematics for Data Science
 
-social_links:
-  - { platform: github,         user_url: "https://github.com/yupraw" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yudha-prawira-a6baab17a/" }
+### Social links:
+[github](https://github.com/yupraw)
+[inkedin](https://www.linkedin.com/in/yudha-prawira-a6baab17a/)
