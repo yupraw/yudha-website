@@ -14,7 +14,7 @@
 **RMG Operator - April Ltd (April 2021 - September 2024)**
 - Improving efficiency in container delivery from 50% on time to 100% on time
 - Uncovered and corrected missing step in Container Yard's SOP which impacted over 70% of empty container accuracy
-- Applied data analysis and business inteligent skill to monitor CY's operation by using Ms. Excel and Qlick
+- Applied data analysis and business intelligent skill to monitor CY's operation by using Ms. Excel and Qlick
 
 ## Projects
 ### 100% Container Availability and On Time Delivery to Paper Warehouse
