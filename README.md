@@ -30,5 +30,6 @@ Used Ms. Excel to perform data analysis and dashboard monitoring by using Qlick 
 - Mathematics for Data Science
 
 ### Social links:
-[github](https://github.com/yupraw)
-[inkedin](https://www.linkedin.com/in/yudha-prawira-a6baab17a/)
+[Github](https://github.com/yupraw)
+[Linkedin](https://www.linkedin.com/in/yudha-prawira-a6baab17a/)
+
