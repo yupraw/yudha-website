@@ -1,6 +1,5 @@
 title: Yudha Prawira
-logo: ![WhatsApp Image 2024-09-15 at 00 31 41_36d1d7d1](https://github.com/user-attachments/assets/cb2c0883-33c9-4c3a-a7ea-c48dd44483cb)
-/assets/img/headshot_circle.png
+logo: /assets/img/headshot_circle.png
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
