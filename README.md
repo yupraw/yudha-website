@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Ms. Excel, Spreadsheet, Tableu, Power BI
 
 ## Education
 - Bachelor's of Electrical Engineering.,  | Padang State of Polytechnic (2019)
