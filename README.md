@@ -21,7 +21,7 @@
 Used Ms. Excel to perform data analysis and dashboard monitoring by using Qlick for operation monitoring to solve Container Yard's problem due to the unability of Container Yard Department to support paper warehouse request in hourly basis. Most of the request were delivered unorganised and late up to 76%. This project run succesfully and impact to business up to 30%. 
 [Kaizen Project](https://drive.google.com/drive/search?q=kaizen)
 
-
+![container-yard-0](https://github.com/user-attachments/assets/85f2c6af-cc40-4813-bb88-aa86e928c524)
 
 ## Certification
 - Machine Learning with Python
