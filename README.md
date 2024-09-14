@@ -25,3 +25,7 @@ Used Ms. Excel to perform data analysis dashboard building by using Qlick for op
 - Data Analysis with Python
 - Data Analytics Professional Certificate
 - Mathematics for Data Science
+
+social_links:
+  - { platform: github,         user_url: "https://github.com/yupraw" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yudha-prawira-a6baab17a/" }
