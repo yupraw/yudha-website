@@ -6,22 +6,29 @@
 - Bachelor's of Electrical Engineering.,  | Padang State of Polytechnic (2019)
 
 ## Work Experience
+
+**Finance Account Payables Associate - (September 2024 – December 2024)***
+Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, Indonesia)
+- Increasing 75% of customer satisfaction by identifying and resolving a missing attribute in customer refund process as the cause of customer complaints through google spreadsheet-based analysis.
+- Designed and implemented an automated payment system for daily payouts and increasing operational efficiency by 30% as well as ensuring error-free transactions for over 500 payments daily by using Python programming
+- Collaborated effectively with cross-functional teams across multiple divisions to drive project success, ensure seamless communication, and achieve organizational objectives.
+
 **Wireline Field Engineer - Elnusa Tbk (October 2023 - July 2024)**
 - Perform wireline services (Logging and Perforation) as per contract
 - Mentoring and develops assigned sub-ordinates to operate in a safe, efficient, and professional manner within Company policies and procedures
 - Strive for service quality in all assigned tasks and report any service quality issues
   
-**RMG Operator - April Ltd (April 2021 - September 2024)**
-- Improving efficiency in container delivery from 50% on time to 100% on time
-- Uncovered and corrected missing step in Container Yard's SOP which impacted over 70% of empty container accuracy
-- Applied data analysis and business intelligent skill to monitor CY's operation by using Ms. Excel and Qlick
+**Business Analyst - April Ltd (April 2021 - September 2024)**
+- Create dynamic dashboards that deliver real-time visualizations, enabling comprehensive reporting and tracking across multiple divisions for seamless decision-making using BI Tools (Tableau, Power BI)
+- Utilize SQL to analyze key metrics to derive actionable insights, providing strategic recommendations that support data-driven decision-making and successfully increasing efficiency in on time container delivery from 50% to100%
+- Performed ETL Process to Integrate and Transform Data from Multiple Sources into PostgreSQL Database
+- Continuously monitor and audit key performance indicators (KPIs) to ensure alignment with organizational goals and identify areas for improvement.
+- Collaborate with stakeholders across multiple divisions to design and implement continuous improvement projects, fostering a culture of innovation and operational excellence.
+
 
 ## Projects
-### 100% Container Availability and On Time Delivery to Paper Warehouse
-Used Ms. Excel to perform data analysis and dashboard monitoring by using Qlick for operation monitoring to solve Container Yard's problem due to the unability of Container Yard Department to support paper warehouse request in hourly basis. Most of the request were delivered unorganised and late up to 76%. This project run succesfully and impact to business up to 30%. 
-[Kaizen Project](https://drive.google.com/drive/folders/12M46mlv4N_VSaDOf7EJi0HIq0LFoI2aP)
-
-![container-yard-0](https://github.com/user-attachments/assets/85f2c6af-cc40-4813-bb88-aa86e928c524)
+- [Traveloka Sentiment Analysis](https://github.com/yupraw/Portfolio-Project/tree/main/Traveloka_Sentiment_Analysis)
+- [Farmhill Dashboard](https://github.com/yupraw/Portfolio-Project/tree/main/The%20Farmhill%20Dashboard)
 
 ## Certification
 - Machine Learning with Python
